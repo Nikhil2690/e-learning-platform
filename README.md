@@ -31,7 +31,6 @@ This project is an e-learning platform designed to facilitate online education m
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sivaprasanth2221/E-Learning-Platform-using-MERN-Stack.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -74,5 +73,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For further queries, contact:
-- **Name:** Siva Prasanth M
-- **Email:** sivabhuvan20@gmail.com
+- **Name:** Nikhil Adwani, Vaibhav Mahajan
+- **Email:** nikhiladwani3@gmail.com
