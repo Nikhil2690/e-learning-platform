@@ -10,6 +10,11 @@ const PORT = process.env.PORT || 5001
 
 dotenv.config();
 
+app.get('/', (req, res) => {
+    res.send('🚀 API is running');
+  });
+  
+
 // app.use(bodyParser.json({ limit: '10mb', extended: true }))
 // app.use(bodyParser.urlencoded({ limit: '10mb', extended: true }))
 
